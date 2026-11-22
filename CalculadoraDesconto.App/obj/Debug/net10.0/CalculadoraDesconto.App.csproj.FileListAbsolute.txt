@@ -1,0 +1,15 @@
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraDescontos_CSharp\CalculadoraDesconto\CalculadoraDesconto.App\bin\Debug\net10.0\CalculadoraDesconto.App.exe
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraDescontos_CSharp\CalculadoraDesconto\CalculadoraDesconto.App\bin\Debug\net10.0\CalculadoraDesconto.App.deps.json
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraDescontos_CSharp\CalculadoraDesconto\CalculadoraDesconto.App\bin\Debug\net10.0\CalculadoraDesconto.App.runtimeconfig.json
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraDescontos_CSharp\CalculadoraDesconto\CalculadoraDesconto.App\bin\Debug\net10.0\CalculadoraDesconto.App.dll
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraDescontos_CSharp\CalculadoraDesconto\CalculadoraDesconto.App\bin\Debug\net10.0\CalculadoraDesconto.App.pdb
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraDescontos_CSharp\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraDescontos_CSharp\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.AssemblyInfoInputs.cache
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraDescontos_CSharp\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.AssemblyInfo.cs
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraDescontos_CSharp\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.csproj.CoreCompileInputs.cache
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraDescontos_CSharp\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.sourcelink.json
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraDescontos_CSharp\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.dll
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraDescontos_CSharp\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\refint\CalculadoraDesconto.App.dll
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraDescontos_CSharp\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.pdb
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraDescontos_CSharp\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.genruntimeconfig.cache
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraDescontos_CSharp\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\ref\CalculadoraDesconto.App.dll

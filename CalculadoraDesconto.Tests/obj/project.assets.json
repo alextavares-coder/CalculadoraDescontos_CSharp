@@ -393,6 +393,16 @@
         "build": {
           "build/net8.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "CalculadoraDesconto.App/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/CalculadoraDesconto.App.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalculadoraDesconto.App.dll": {}
+        }
       }
     }
   },
@@ -903,10 +913,16 @@
         "xunit.runner.visualstudio.3.1.4.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "CalculadoraDesconto.App/1.0.0": {
+      "type": "project",
+      "path": "../CalculadoraDesconto.App/CalculadoraDesconto.App.csproj",
+      "msbuildProject": "../CalculadoraDesconto.App/CalculadoraDesconto.App.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
+      "CalculadoraDesconto.App >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.14.1",
       "coverlet.collector >= 6.0.4",
       "xunit >= 2.9.3",
@@ -920,11 +936,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\9 - TESTE DE SISTEMAS\\Minha Atividade\\Códigos do C#\\CalculadoraDescontos_CSharp\\CalculadoraDesconto\\CalculadoraDesconto.Tests\\CalculadoraDesconto.Tests.csproj",
+      "projectUniqueName": "d:\\9 - TESTE DE SISTEMAS\\Minha Atividade\\Códigos do C#\\CalculadoraDescontos_CSharp\\CalculadoraDesconto\\CalculadoraDesconto.Tests\\CalculadoraDesconto.Tests.csproj",
       "projectName": "CalculadoraDesconto.Tests",
-      "projectPath": "D:\\9 - TESTE DE SISTEMAS\\Minha Atividade\\Códigos do C#\\CalculadoraDescontos_CSharp\\CalculadoraDesconto\\CalculadoraDesconto.Tests\\CalculadoraDesconto.Tests.csproj",
+      "projectPath": "d:\\9 - TESTE DE SISTEMAS\\Minha Atividade\\Códigos do C#\\CalculadoraDescontos_CSharp\\CalculadoraDesconto\\CalculadoraDesconto.Tests\\CalculadoraDesconto.Tests.csproj",
       "packagesPath": "C:\\Users\\alexc\\.nuget\\packages\\",
-      "outputPath": "D:\\9 - TESTE DE SISTEMAS\\Minha Atividade\\Códigos do C#\\CalculadoraDescontos_CSharp\\CalculadoraDesconto\\CalculadoraDesconto.Tests\\obj\\",
+      "outputPath": "d:\\9 - TESTE DE SISTEMAS\\Minha Atividade\\Códigos do C#\\CalculadoraDescontos_CSharp\\CalculadoraDesconto\\CalculadoraDesconto.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual Studio Community\\componentes\\NuGetPackages"
@@ -946,7 +962,11 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\9 - TESTE DE SISTEMAS\\Minha Atividade\\Códigos do C#\\CalculadoraDescontos_CSharp\\CalculadoraDesconto\\CalculadoraDesconto.App\\CalculadoraDesconto.App.csproj": {
+              "projectPath": "D:\\9 - TESTE DE SISTEMAS\\Minha Atividade\\Códigos do C#\\CalculadoraDescontos_CSharp\\CalculadoraDesconto\\CalculadoraDesconto.App\\CalculadoraDesconto.App.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
